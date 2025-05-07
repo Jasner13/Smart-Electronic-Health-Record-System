@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SEHRS.BaseForm">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAACAQAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>BaseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEHRS.LoginForm" Collapsed="true">
+    <Position X="3" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAACAAAQCBEEAAAAACAAAACAAAACkBGEiIAAABAAAA=</HashCode>
+      <FileName>CoreControls\LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEHRS.DashboardForm">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AwAIIgAAcGwAMCCjHDTEBDESIDAAQgqlAIFgQChQiBg=</HashCode>
+      <FileName>CoreControls\DashboardForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEHRS.HomeControl">
+    <Position X="6" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABEgAAAAACAgIgFAAACJAQACAIAEIYAEAAKCAQACQAQ=</HashCode>
+      <FileName>CoreControls\HomeControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEHRS.NewDrugControl">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>JDAgDSQAAKABLT4S7ICgRggjDIBACAAAURhTASQvKAQ=</HashCode>
+      <FileName>ForInventory\NewDrugControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEHRS.ManageInventoryControl">
+    <Position X="9" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EDAACI1BgThNMCDTCZHt8QjCAMBQjEEFUGBcCQk/omA=</HashCode>
+      <FileName>ForInventory\ManageInventoryControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEHRS.DrugProfileControl">
+    <Position X="13.5" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AACEAQAAACQACAAAEADQBAiKAADIQABCAQIgAAAACAA=</HashCode>
+      <FileName>ForInventory\DrugProfileControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEHRS.BaseControl">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAQAAAAAAAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>BaseControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEHRS.PatientProfileControl">
+    <Position X="15" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ASIIQFCCIToAJAACAUCQUAACAAABEDABACQAIAAhQAg=</HashCode>
+      <FileName>ForPatient\PatientProfileControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEHRS.PatientProfileService" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="SEHRS.PatientProfileService.PatientModel" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PatientProfileService.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAgAAABAACAAACAAAAAAAAA=</HashCode>
+      <FileName>PatientProfileService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEHRS.DrugService" Collapsed="true">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>DrugService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEHRS.AnalyticsChartService" Collapsed="true">
+    <Position X="3" Y="6" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAAAAABAAAAoAiAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AnalyticsChartService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEHRS.NewPatientControl">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABQgABwAICAAKDYEAQCgVIBODIBAAANnQwBSoRAHAsI=</HashCode>
+      <FileName>ForPatient\NewPatientControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEHRS.ManagePatientsControl">
+    <Position X="12" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ATgiBQDRMDEwoVwFDaDQwohGgDDBOEALACJMA4A/YEY=</HashCode>
+      <FileName>ForPatient\ManagePatientsControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.UserControl" Collapsed="true">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SEHRS.FilterAnalyticsControl">
+    <Position X="3" Y="7" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAAGAAgCAQIAhEAASAYKITUACCAAAAABABQQAgQAA=</HashCode>
+      <FileName>CoreControls\AnalyticsControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmailService" Collapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmailService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEHRS.SmsService" Collapsed="true">
+    <Position X="13.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SmsService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEHRS.NotifyPatientsControl" Collapsed="true">
+    <Position X="13.5" Y="7.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>hRAAgAAAICRgIEAkAAKYokgCAAAACQAIAAARAUECAAA=</HashCode>
+      <FileName>ForPatient\NotifyPatientsControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
